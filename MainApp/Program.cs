@@ -73,7 +73,7 @@ switch (option)
 
 
 // Week 3
-Console.WriteLine("---- Check Prime Number ----");
+/*Console.WriteLine("---- Check Prime Number ----");
 Prime.CheckPrime();
 Console.WriteLine("---- Check Prime Number ---- \n");
 
@@ -87,6 +87,9 @@ Console.WriteLine("---- Swap Two Numbers ---- \n");
 
 Console.WriteLine("---- Search Elemeny in an Array ----");
 ArrayCheck.searchArrayElement();
-Console.WriteLine("---- Search Elemeny in an Array ----");
+Console.WriteLine("---- Search Elemeny in an Array ----");*/
+
+// Bubble Sort
+SelectionSort.selectionSorting();
 // Week 3
 
