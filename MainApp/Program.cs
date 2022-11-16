@@ -5,6 +5,9 @@ using MainApp;
 using MainApp.Calculator;
 using MainApp.Week2;
 using MainApp.Week3;
+using MainApp.Week4;
+using static MainApp.Week4.PartialClass;
+using static MainApp.Week4.Polymorphism;
 
 // Class1 myobj = new Class1();
 
@@ -90,6 +93,28 @@ ArrayCheck.searchArrayElement();
 Console.WriteLine("---- Search Elemeny in an Array ----");*/
 
 // Bubble Sort
-SelectionSort.selectionSorting();
+//SelectionSort.selectionSorting();
 // Week 3
+
+
+
+
+
+// Week 4
+
+// Abstraction
+CallName.mainMethod();
+
+// Polymorphism
+MainClass.mainMethod();
+
+//Partial Class
+MainPartial.mainPartialMethod();
+
+// Access Modifiers
+UseAccessModifiers.mainUseMethodAM();
+
+
+// Week 4
+
 

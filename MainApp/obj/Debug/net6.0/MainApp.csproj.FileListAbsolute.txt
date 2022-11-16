@@ -1,0 +1,15 @@
+E:\Islington Classes\Semester-5\Application Development\Workshop\MainApp\MainApp\bin\Debug\net6.0\MainApp.exe
+E:\Islington Classes\Semester-5\Application Development\Workshop\MainApp\MainApp\bin\Debug\net6.0\MainApp.deps.json
+E:\Islington Classes\Semester-5\Application Development\Workshop\MainApp\MainApp\bin\Debug\net6.0\MainApp.runtimeconfig.json
+E:\Islington Classes\Semester-5\Application Development\Workshop\MainApp\MainApp\bin\Debug\net6.0\MainApp.dll
+E:\Islington Classes\Semester-5\Application Development\Workshop\MainApp\MainApp\bin\Debug\net6.0\MainApp.pdb
+E:\Islington Classes\Semester-5\Application Development\Workshop\MainApp\MainApp\obj\Debug\net6.0\MainApp.csproj.AssemblyReference.cache
+E:\Islington Classes\Semester-5\Application Development\Workshop\MainApp\MainApp\obj\Debug\net6.0\MainApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Islington Classes\Semester-5\Application Development\Workshop\MainApp\MainApp\obj\Debug\net6.0\MainApp.AssemblyInfoInputs.cache
+E:\Islington Classes\Semester-5\Application Development\Workshop\MainApp\MainApp\obj\Debug\net6.0\MainApp.AssemblyInfo.cs
+E:\Islington Classes\Semester-5\Application Development\Workshop\MainApp\MainApp\obj\Debug\net6.0\MainApp.csproj.CoreCompileInputs.cache
+E:\Islington Classes\Semester-5\Application Development\Workshop\MainApp\MainApp\obj\Debug\net6.0\MainApp.dll
+E:\Islington Classes\Semester-5\Application Development\Workshop\MainApp\MainApp\obj\Debug\net6.0\refint\MainApp.dll
+E:\Islington Classes\Semester-5\Application Development\Workshop\MainApp\MainApp\obj\Debug\net6.0\MainApp.pdb
+E:\Islington Classes\Semester-5\Application Development\Workshop\MainApp\MainApp\obj\Debug\net6.0\MainApp.genruntimeconfig.cache
+E:\Islington Classes\Semester-5\Application Development\Workshop\MainApp\MainApp\obj\Debug\net6.0\ref\MainApp.dll
